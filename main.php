@@ -89,7 +89,7 @@
 
         ?>
     </pre>
-    <form action="TopPeliculas.php" method="post">
+    <form action="main.php" method="post">
         <label for="nombreP">Nombre Pelicula: </label>
         <input type="text" name="nombreP" id=""><br>
         <label for="isan">Numero ISAN: </label>
